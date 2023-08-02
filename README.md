@@ -1,4 +1,6 @@
-### Hi there 👋
+# Olá, meu nome é Lucas
+
+## Confira o meu [linkedin](https://www.linkedin.com/in/lucas-lima-469873200/) 💻:
 
 <!--
 **lucas-limabr/lucas-limabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
