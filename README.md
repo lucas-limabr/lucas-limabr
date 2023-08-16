@@ -2,7 +2,7 @@
 
 ## Confira o meu [linkedin](https://www.linkedin.com/in/lucas-lima-469873200/) 💻
 
-![snake gif](https://github.com/lucas-limabr/lucas-limabr/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **lucas-limabr/lucas-limabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
