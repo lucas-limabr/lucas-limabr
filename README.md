@@ -1,5 +1,5 @@
 # 🎓 About Me:
-Estou cursando bacharelado em Sistemas de Informação e formado como técnico em informática. Atualmente, realizo estágio na área de desenvolvimento de software, com grande parte dos meus estudos voltados para o back-end, área pela qual tenho grande interesse e entusiasmo em aprender novos conceitos e tecnologias.<br>Meus repositórios, em sua maioria, reúnem atividades e trabalhos acadêmicos desenvolvidos ao longo da minha trajetória.
+Estou cursando bacharelado em Sistemas de Informação e formado como técnico em informática. Grande parte dos meus estudos são voltados para o back-end, área pela qual tenho grande interesse e entusiasmo em aprender novos conceitos e tecnologias.<br>Meus repositórios, em sua maioria, reúnem atividades e trabalhos acadêmicos desenvolvidos ao longo da minha trajetória.
 
 
 ## 🌐 Socials:
