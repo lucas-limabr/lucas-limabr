@@ -51,3 +51,7 @@ Meus repositórios, em sua maioria, reúnem atividades e trabalhos acadêmicos d
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/lucas-limabr/lucas-limabr/output/snake.svg" alt="Snake animation" />
+
+###
